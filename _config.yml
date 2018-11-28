@@ -1,11 +1,11 @@
 # Site settings
 author: Kevin J Gomez
-title: The fun aches of CLI with Scraper
+title: The FULL of the Stack
 header-img: img/home-bg.png
 email: kjgmez1@gmail.com
 copyright_name: Kevin J Gomez
 description: > # this means to ignore newlines until "baseurl:"
-  How I created the CLI and OO interactions and logic
+  Full Stack Web Development and it's wonders
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kjgmez
