@@ -1,11 +1,11 @@
 # Site settings
 author: Kevin J Gomez
-title: 
+title: The fun aches of CLI with Scraper
 header-img: img/home-bg.png
 email: kjgmez1@gmail.com
 copyright_name: Kevin J Gomez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  How I created the CLI and OO interactions and logic
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kjgmez
