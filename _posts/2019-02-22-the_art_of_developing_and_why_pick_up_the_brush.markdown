@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The art of developing and why pick up the brush"
-date:       2019-02-23 01:35:44 +0000
+date:       2019-02-22 20:35:45 -0500
 permalink:  the_art_of_developing_and_why_pick_up_the_brush
 ---
 
