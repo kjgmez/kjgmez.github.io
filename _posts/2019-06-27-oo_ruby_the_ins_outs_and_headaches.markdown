@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "OO RUBY: The ins, outs and headaches"
+title:      "OO RUBY: Describing from Human to Binary"
 date:       2019-06-27 10:08:17 -0400
 permalink:  oo_ruby_the_ins_outs_and_headaches
 ---
